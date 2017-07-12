@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     //log1
+    //log3
     // Do any additional setup after loading the view, typically from a nib.
 }
 
