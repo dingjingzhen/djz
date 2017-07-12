@@ -15,6 +15,7 @@
 		186024EF1F1607970044324D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 186024ED1F1607970044324D /* LaunchScreen.storyboard */; };
 		186024FA1F1607970044324D /* djzTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 186024F91F1607970044324D /* djzTests.m */; };
 		186025051F1607970044324D /* djzUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 186025041F1607970044324D /* djzUITests.m */; };
+		186A487D1F160EB200A7D90D /* . gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 186A487C1F160EB200A7D90D /* . gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		186025001F1607970044324D /* djzUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = djzUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		186025041F1607970044324D /* djzUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = djzUITests.m; sourceTree = "<group>"; };
 		186025061F1607970044324D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		186A487C1F160EB200A7D90D /* . gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ". gitignore"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		186024D31F1607960044324D = {
 			isa = PBXGroup;
 			children = (
+				186A487C1F160EB200A7D90D /* . gitignore */,
 				186024DE1F1607970044324D /* djz */,
 				186024F81F1607970044324D /* djzTests */,
 				186025031F1607970044324D /* djzUITests */,
@@ -247,6 +250,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				186024EF1F1607970044324D /* LaunchScreen.storyboard in Resources */,
+				186A487D1F160EB200A7D90D /* . gitignore in Resources */,
 				186024EC1F1607970044324D /* Assets.xcassets in Resources */,
 				186024EA1F1607970044324D /* Main.storyboard in Resources */,
 			);
@@ -509,6 +513,7 @@
 				1860250B1F1607970044324D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1860250C1F1607970044324D /* Build configuration list for PBXNativeTarget "djzTests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +522,7 @@
 				1860250E1F1607970044324D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1860250F1F1607970044324D /* Build configuration list for PBXNativeTarget "djzUITests" */ = {
 			isa = XCConfigurationList;
@@ -525,6 +531,7 @@
 				186025111F1607970044324D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

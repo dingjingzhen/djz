@@ -25,6 +25,7 @@
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     //log2
+    //log4
     // Dispose of any resources that can be recreated.
 }
 
