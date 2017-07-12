@@ -16,16 +16,12 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    //log1
-    //log3
     // Do any additional setup after loading the view, typically from a nib.
 }
 
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    //log2
-    //log4
     // Dispose of any resources that can be recreated.
 }
 
